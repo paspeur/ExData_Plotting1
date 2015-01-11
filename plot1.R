@@ -3,8 +3,6 @@
 # Project 1: Reconstruct plots, all of which were constructed using the base
 # plotting system
 
-setwd("G:/cygwin64/home/Ivan/bitbucket/coursera/exdata-010/P1")
-
 #############################
 # Code for reading the data
 #############################
